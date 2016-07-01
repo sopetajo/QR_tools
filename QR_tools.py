@@ -1,5 +1,6 @@
 #!/usr/bin/python
 
+# sudo apt-get install libzbar-dev
 # pip install pyqrcode
 # pip install qrtools
 
